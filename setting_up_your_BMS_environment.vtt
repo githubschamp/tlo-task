@@ -6,15 +6,15 @@ Hey everyone. Now that you've finished setting up your workspace and
 
 1
 00:00:03.700 --> 00:00:06.000
- installing python. Let's look at how to work with
+ installing python. Lets now understand how to work with
 
 2
 00:00:06.100 --> 00:00:09.100
- the project file. So first what you can do is
+ the project file. The first step would be to click on the 
 
 3
 00:00:09.700 --> 00:00:12.100
-click the download project file in the
+download project file option in the
 
 4
 00:00:12.100 --> 00:00:12.600
@@ -22,43 +22,43 @@ click the download project file in the
 
 5
 00:00:13.600 --> 00:00:16.200
-And it will automatically get downloaded right now.
+It will start downloading. Once its finished you will notice a pop-up.
 
 6
 00:00:17.100 --> 00:00:17.700
-It's here.
+It is done now.
 
 7
 00:00:18.600 --> 00:00:19.800
-The slide this away.
+Minimize the screen and go to desktop.
 
 8
 00:00:20.500 --> 00:00:23.000
-Go to your computer this PC.
+On desktop double click on 'This PC' folder.
 
 9
 00:00:24.500 --> 00:00:27.100
-Go to any drive that you have
+Select a drive in which you want to save the file.
 
 10
 00:00:27.100 --> 00:00:29.600
- free. Just create a new folder.
-
+ In the drive right click and go to new and create a folder.
+ 
 11
 00:00:30.600 --> 00:00:32.200
-see Evie
+See Evie
 
 12
 00:00:32.800 --> 00:00:33.300
-201
+201 
 
 13
 00:00:35.200 --> 00:00:36.800
-in this new folder what we can do is
+In this folder we can  
 
 14
 00:00:38.300 --> 00:00:40.100
-Just drag this and drop here.
+just drag and drop the file.
 
 15
 00:00:41.600 --> 00:00:41.900
@@ -66,7 +66,7 @@ Okay.
 
 16
 00:00:42.600 --> 00:00:43.700
-That's it now.
+This is done.
 
 17
 00:00:45.400 --> 00:00:48.200
@@ -74,11 +74,11 @@ In the new folder you have your zip file that you've downloaded.
 
 18
 00:00:49.200 --> 00:00:52.700
-Right click on this I click extract here. You can
+Right click on this and click on 'extract here' option. You can
 
 19
 00:00:52.700 --> 00:00:55.300
- either click extract here if you have WinRAR
+ either click on 'extract here' if you have WinRAR
 
 20
 00:00:56.300 --> 00:01:00.300
@@ -86,11 +86,11 @@ Or you can click extract here in the seven. Zip dropdown
 
 21
 00:00:59.300 --> 00:01:02.800
- Okay, click this or
+ Okay, click this.
 
 22
 00:01:02.800 --> 00:01:04.400
- this now click extract here.
+And click on extract here.
 
 23
 00:01:06.200 --> 00:01:09.200
@@ -98,7 +98,7 @@ So you have extracted the data that is in
 
 24
 00:01:09.200 --> 00:01:10.600
- the zip file open this
+ the zip file. Open this.
 
 25
 00:01:11.500 --> 00:01:14.800
@@ -114,7 +114,7 @@ You can see the cursor, right?
 
 28
 00:01:17.700 --> 00:01:18.200
-click this
+click on that.
 
 29
 00:01:19.100 --> 00:01:22.100
@@ -142,7 +142,7 @@ So what is happening here?
 
 35
 00:01:35.600 --> 00:01:38.300
-What is happening? The BMS underscore main is not
+The BMS underscore main is not
 
 36
 00:01:38.300 --> 00:01:41.500
@@ -166,23 +166,23 @@ right click
 
 41
 00:01:51.300 --> 00:01:52.000
-rename
+rename.
 
 42
 00:01:53.700 --> 00:01:54.700
-Let's remove this.
+Let's remame the
 
 43
 00:01:55.700 --> 00:01:56.400
-main part
+main part.
 
 44
 00:02:01.300 --> 00:02:02.000
-right. Let's
+ Let's
 
 45
 00:02:04.100 --> 00:02:05.400
-close all the programs.
+close all the programs first.
 
 46
 00:02:07.000 --> 00:02:07.200
@@ -218,7 +218,7 @@ Okay. So this is the file that is going to be uploaded on
 
 54
 00:02:33.900 --> 00:02:36.800
-The basic code works and to make
+the basic code works and to make
 
 55
 00:02:36.800 --> 00:02:39.500
@@ -230,35 +230,35 @@ The basic code works and to make
 
 57
 00:02:42.600 --> 00:02:45.200
- section first while that is
+section it
 
 58
 00:02:45.200 --> 00:02:48.300
- this just outputs all the data to the
+just outputs all the data to the
 
 59
 00:02:48.300 --> 00:02:51.500
- Python program. We'll understand how the Python program works later. But
+Python program. We'll understand how the Python program works later. But
 
 60
 00:02:51.500 --> 00:02:54.600
- this is basically the output part but let's look
+this is basically the output part but let's look
 
 61
 00:02:54.600 --> 00:02:57.600
- at the calculation part. This is the battery voltage part.
+at the calculation part. This is the battery voltage part.
 
 62
 00:02:57.600 --> 00:03:00.200
- This is the control part. This is the current
+This is the control part. This is the current
 
 63
 00:03:00.200 --> 00:03:03.100
- sensor to extract all the current
+sensor to extract all the current
 
 64
 00:03:03.100 --> 00:03:06.600
- data the output current from the Arduino of the
+ data. The output current from the Arduino of the
 
 65
 00:03:06.600 --> 00:03:09.800
@@ -270,7 +270,7 @@ The basic code works and to make
 
 67
 00:03:12.300 --> 00:03:15.200
- and temperature for cell number one cell number two.
+ and temperature for cell number one and cell number two.
 
 68
 00:03:15.900 --> 00:03:16.100
@@ -278,7 +278,7 @@ right
 
 69
 00:03:17.100 --> 00:03:19.200
-So this is what where all the calculations happen.
+So this is where all the calculations happen.
 
 70
 00:03:20.300 --> 00:03:23.400
@@ -302,7 +302,7 @@ all the functions that deal with
 
 75
 00:03:32.500 --> 00:03:34.600
-So you can send and receive data through here.
+Now you can send and receive data here.
 
 76
 00:03:35.200 --> 00:03:38.400
@@ -314,15 +314,15 @@ So we'll understand how this works much better
 
 78
 00:03:40.500 --> 00:03:42.000
-So this is basically just click.
+So this is basically just click and
 
 79
 00:03:43.400 --> 00:03:46.200
-upload, just select first of all select
+upload. First select 
 
 80
 00:03:46.200 --> 00:03:49.100
- your Arduino Nano select which
+ your Arduino Nano, then in that what 
 
 81
 00:03:50.200 --> 00:03:52.800
@@ -334,11 +334,11 @@ select the port
 
 83
 00:03:55.400 --> 00:03:56.600
-come six.
+come to six.
 
 84
 00:03:57.300 --> 00:04:00.400
-And just select upload once uploaded it will
+And just select upload. Once it is uploaded, it will
 
 85
 00:04:00.400 --> 00:04:01.900
@@ -346,15 +346,15 @@ And just select upload once uploaded it will
 
 86
 00:04:03.500 --> 00:04:04.500
-That it upload first.
+Let it upload first.
 
 87
 00:04:22.300 --> 00:04:25.600
-It might take some time to upload depending on your PC now that it's completed
+It might take some time to upload depending on your PC. Now that it's completed
 
 88
 00:04:25.600 --> 00:04:28.400
- uploading go to tools go to
+ uploading. Go to tools go to
 
 89
 00:04:28.400 --> 00:04:28.900
@@ -362,11 +362,11 @@ It might take some time to upload depending on your PC now that it's completed
 
 90
 00:04:31.300 --> 00:04:31.600
-now
+Then
 
 91
 00:04:33.800 --> 00:04:35.600
-Right. You need to switch on your BMS?
+You need to switch on your BMS?
 
 92
 00:04:36.500 --> 00:04:38.600
@@ -374,15 +374,15 @@ You will start getting all the data here.
 
 93
 00:04:39.400 --> 00:04:42.400
-Okay, so these are the iterations and this is all all
+Okay, so these are the iterations and this is all
 
 94
 00:04:42.400 --> 00:04:45.600
- the data. You don't have to be able to read this. This
+ the data. You don't have to read this. That
 
 95
 00:04:45.600 --> 00:04:47.400
- is unable I know but
+ is not required.
 
 96
 00:04:48.200 --> 00:04:51.700
@@ -394,7 +394,7 @@ This data will go into the Python
 
 98
 00:04:53.900 --> 00:04:56.700
-This is the Python program. It's called BMS
+This is the Python program. It's called the BMS
 
 99
 00:04:56.700 --> 00:04:58.500
@@ -406,15 +406,15 @@ so
 
 101
 00:05:02.800 --> 00:05:05.600
-Your Arduino is currently calm six right now. That
+Your Arduino is currently calm six. That
 
 102
 00:05:05.600 --> 00:05:08.100
- is because USB serial rate. These are
+ is because of USB serial rate. These are
 
 103
 00:05:08.100 --> 00:05:11.300
- all Bluetooths whatever other com ports or
+ all Bluetooths, whatever other com ports or
 
 104
 00:05:11.300 --> 00:05:14.200
@@ -426,11 +426,11 @@ Your Arduino is currently calm six right now. That
 
 106
 00:05:17.800 --> 00:05:19.200
- ch340
+ ch340.
 
 107
 00:05:20.100 --> 00:05:20.700
-type in
+Type in
 
 108
 00:05:21.100 --> 00:05:21.700
@@ -446,15 +446,14 @@ start the battery management system dialog box.
 
 111
 00:05:31.400 --> 00:05:32.800
-That's that's basically it.
+Thats it.
 
 112
 00:05:33.400 --> 00:05:36.500
-You get to the dashboard and we'll learn how the dashboard
-
+You get to the dashboard.We'll learn how the dashboard
 113
 00:05:36.500 --> 00:05:37.100
- Works later.
+ works later.
 
 114
 00:05:38.200 --> 00:05:38.500
